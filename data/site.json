@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1554236236/yfthjmqxdfnpaq9aq9re.jpg",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
@@ -11,18 +11,18 @@
   ],
   "content": [
     {
-      "email": "flymycommunity@gmail.com",
-      "linkcont": "+0909 2131 1231",
-      "videoid": "255662356",
+      "email": "garyjordan@remax.net",
+      "linkcont": "719-548-8600",
+      "videoid": "234055605",
       "sliderbg": "/img/fly3_bg.jpg"
     }
   ],
   "about": [
-  {
-    "abouttext1": "Crystal Park - FMC ",
-    "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
-    "aboutbg": "/img/content_bg.png"
-  }
+    {
+      "abouttext1": "Pine Creek Community",
+      "abouttext2": "Pine Creek Village is a 900-acre upscale residential community in north Colorado Springs oriented to golf course and open space amenities. The golf course, common areas, parks and trails link a variety of housing types. Great schools and a wonderful place to live.",
+      "aboutbg": "/img/content_bg.png"
+    }
   ],
   "updatedDate": "2017-11-28T06:24:37.530Z"
 }
